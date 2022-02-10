@@ -105,4 +105,13 @@ input[type=text]{
     width: 250px;
     margin: 5rem auto;
     text-align: center;
+    box-shadow: 2px 2px 2px;
+}
+#noClue{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 5rem auto;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
 }

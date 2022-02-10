@@ -117,6 +117,8 @@ function showHoroskop() {
             break;
     
         default:
+            horoOut.innerHTML = `<div id="noClue"><h1>Das ist kein Monat</h1>
+            `
             break;
     }
 }
