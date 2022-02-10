@@ -30,6 +30,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #TAURUS {
@@ -38,6 +39,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #GEMINI {
@@ -46,6 +48,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #CANCER {
@@ -54,6 +57,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #LEO {
@@ -62,6 +66,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #VIRGO {
@@ -70,6 +75,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #LIBRA {
@@ -78,6 +84,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #SCORPIO {
@@ -86,6 +93,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #SAGITTARIUS {
@@ -94,6 +102,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #CAPRICORN {
@@ -102,6 +111,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #AQUARIUS {
@@ -110,6 +120,7 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #PISCES {
@@ -119,6 +130,7 @@ input[type=text] {
   margin: 5rem auto;
   text-align: center;
   box-shadow: 2px 2px 2px;
+  box-shadow: 3px 3px 5px 5px black;
 }
 
 #noClue {
@@ -127,5 +139,5 @@ input[type=text] {
   width: 250px;
   margin: 5rem auto;
   text-align: center;
-  box-shadow: 2px 2px 2px;
+  box-shadow: 3px 3px 5px 5px black;
 }/*# sourceMappingURL=main.css.map */
